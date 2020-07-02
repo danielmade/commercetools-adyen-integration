@@ -13,5 +13,5 @@
       ]
     }
   ],
-  "timeoutInMs": 10000
+  "timeoutInMs": 2000
 }
